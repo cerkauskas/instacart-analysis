@@ -23,3 +23,9 @@ At the time of analysis, my folder had these files:
 For this analysis, Postgres is used.
 It runs as a docker container, so you don't have to worry about it.
 Import it by running notebook, that exists in `prepare/put-to-sql.ipynb`.
+
+## Analysis
+Analysis could be found in `exploration.ipynb` notebook.
+
+## Feedback
+Any (literally - any) feedback is greatly appreciated.
